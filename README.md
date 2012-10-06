@@ -8,7 +8,7 @@ Supports custom domains.
 
 The deployment is handled with the `af` tool/gem.
 
-    af update
+    af update imetrical
 
 Looks mostly like cloudfoundry's vcm.
 
